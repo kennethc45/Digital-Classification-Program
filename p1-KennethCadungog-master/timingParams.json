@@ -1,0 +1,28 @@
+[
+    [
+        "Project 1.full credit.buildCorpus implementation details.that buildCorpus is linear",
+        {
+            "benchMaxRunTime": 30,
+            "extendRange": false,
+            "minRuntime": 0.2,
+            "maxSteps": 12,
+            "maxBlowup": -1,
+            "maxTimeout": 5,
+            "showSteps": false,
+            "initSteps": 11
+        }
+    ],
+    [
+        "Project 1.full credit.that you avoid unnecessary work.that your code is linear in the number of training images",
+        {
+            "benchMaxRunTime": 30,
+            "extendRange": false,
+            "minRuntime": 1,
+            "maxSteps": 12,
+            "maxBlowup": -1,
+            "maxTimeout": 20,
+            "showSteps": false,
+            "initSteps": 7
+        }
+    ]
+]
